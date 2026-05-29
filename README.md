@@ -1,18 +1,17 @@
-# Raknah (ParkSense) - Smart Parking Mobile Application 🚗
+# parksense_flutter
 
-## Project Overview
-Raknah is an innovative mobile application engineered using Flutter and Supabase to automate and optimize parking management. The system simplifies the process of finding, reserving, and managing parking slots efficiently while maintaining high data privacy and security standards.
+A new Flutter project.
 
-## System Core Features
-* **Real-time Monitoring:** Tracks and updates parking slot availability instantly.
-* **Database Integration:** Utilizes Supabase for secure data storage and fast cloud synchronization.
-* **User-Friendly Interface:** Developed with Flutter to ensure a smooth mobile user experience.
+## Getting Started
 
-## My Contributions & Key Responsibilities
-In this project, I focused on the engineering, analytical, and governance aspects of the system, including:
-* **Data Governance & Management:** Organized and structured database schemas while ensuring data compliance and information privacy.
-* **Requirements Analysis:** Translated functional and non-functional user needs into structural system architecture.
-* **Quality Assurance & Testing:** Led the system's QA phases and conducted comprehensive manual testing to ensure data accuracy and a seamless user experience.
+This project is a starting point for a Flutter application.
 
-## Deliverables
-* You can access the full technical project documentation directly from the repository files above.
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
